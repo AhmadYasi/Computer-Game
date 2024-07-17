@@ -28,3 +28,5 @@ For a comprehensive look at the gameplay and features, please refer to our YouTu
 - [Full Gameplay Demo](https://www.youtube.com/watch?v=kHJrSpBphtQ)
 
 These videos provide an in-depth look at the game mechanics, puzzle elements, and overall atmosphere of "The Haunted Mansion."
+
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white) ![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white) ![Blender](https://img.shields.io/badge/-Blender-F5792A?style=flat-square&logo=blender&logoColor=white)
